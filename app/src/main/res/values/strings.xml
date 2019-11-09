@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Task</string>
+    <string name="add_task">Add Task</string>
+    <string name="submit">Submit</string>
+    <string name="add_new_task">Add New Task:</string>
+    <string name="alert_title">Task</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+</resources>
